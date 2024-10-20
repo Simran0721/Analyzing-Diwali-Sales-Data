@@ -6,11 +6,11 @@ To analyze Diwali sales data to identify trends, consumer behavior, and provide 
 ## Data Sources & Queries:
 -	Data Source: Diwali sales data containing information about sales transactions, customer demographics, product categories, and more.
 -	Key Queries:
-   - Total sales and revenue during Diwali
-   - Sales trends by product category, customer demographic, and location
-   - Top-selling products and customer segment.
-   - Customer behavior analysis (e.g., purchase frequency, average order value)
-   - Comparison of Diwali sales with non-Diwali sales
+    - Total sales and revenue during Diwali
+    - Sales trends by product category, customer demographic, and location
+    - Top-selling products and customer segment.
+    - Customer behavior analysis (e.g., purchase frequency, average order value)
+    - Comparison of Diwali sales with non-Diwali sales
 
 ## Python Libraries:
 - Pandas: For data manipulation and analysis.
